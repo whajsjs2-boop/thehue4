@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whajsjs2-boop.github.io/thehue4/sitemap.xml
